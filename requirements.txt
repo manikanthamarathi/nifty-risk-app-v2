@@ -5,6 +5,6 @@ plotly
 yfinance
 requests
 pdfplumber
-NorenRestApiPy
+norenrestapipy
 # Optional, only for live Shoonya orders:
 # NorenRestApiPy 
