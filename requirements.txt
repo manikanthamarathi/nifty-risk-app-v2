@@ -1,0 +1,9 @@
+streamlit>=1.50
+pandas
+numpy
+plotly
+yfinance
+requests
+pdfplumber
+# Optional, only for live Shoonya orders:
+# NorenRestApiPy
