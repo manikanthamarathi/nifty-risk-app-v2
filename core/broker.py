@@ -23,8 +23,8 @@ def shoonya_login(user_id: str, password: str, factor2: str, vendor_code: str, a
     """Returns (api_object_or_None, message)."""
     try:
         from NorenRestApiPy.NorenApi import NorenApi
-       except Exception as e:
-       return None, f"Broker library could not load: {e!r}"
+    except Exception as e:
+        return None, f"Broker library could not load: {e!r}"
 
     class _Api(NorenApi):
         def __init__(self):
