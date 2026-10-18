@@ -6,5 +6,7 @@ yfinance
 requests
 pdfplumber
 norenrestapipy
+websocket-client
+pyotp
 # Optional, only for live Shoonya orders:
 # NorenRestApiPy 
