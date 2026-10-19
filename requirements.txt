@@ -8,5 +8,6 @@ pdfplumber
 norenrestapipy
 websocket-client
 pyotp
+websockets>=16.1.1,<17
 # Optional, only for live Shoonya orders:
 # NorenRestApiPy 
